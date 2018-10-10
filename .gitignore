@@ -1,0 +1,3 @@
+# exclude KiCad backup files
+*.bak
+*.bck
